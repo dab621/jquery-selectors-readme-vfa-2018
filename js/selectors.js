@@ -1,4 +1,6 @@
 // declare your functions here...
 paragraphSelector = $('p')
-return paragraphSelector()
-lastImageSelector =
+lastImageSelector = $('img:last')
+ninjaBabySelector = $("#ninja-baby")
+divSelector = $(".pics")
+firstListItem = $("id :first-child")
