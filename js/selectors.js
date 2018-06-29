@@ -1,5 +1,5 @@
 // declare your functions here...
-npm uninstall mocha-jsdom
+;npm uninstall mocha-jsdom
 npm install jsdom
 
 paragraphSelector = $('p')
